@@ -6,7 +6,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;Im a simple coder that love to help others
-&nbsp; Arch Linux lover
+
+### OS
+![Arch Linux](https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -42,9 +44,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;My Badges 
-
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
 
 ### 💰 &nbsp;Support My Work
 [![Paypal] @LilAlxz]
@@ -61,18 +60,13 @@ Discord: sprr_z
 
 
 
-<p>
-  
-  ██████ ██▓███ ▓█████ ▄████▄ ▄▄▄█████▓██▀███ ▓█████ 
-▒██    ▒▓██░  ██▓█   ▀▒██▀ ▀█ ▓  ██▒ ▓▓██ ▒ ██▓█   ▀ 
-░ ▓██▄  ▓██░ ██▓▒███  ▒▓█    ▄▒ ▓██░ ▒▓██ ░▄█ ▒███   
-  ▒   ██▒██▄█▓▒ ▒▓█  ▄▒▓▓▄ ▄██░ ▓██▓ ░▒██▀▀█▄ ▒▓█  ▄ 
-▒██████▒▒██▒ ░  ░▒████▒ ▓███▀ ░ ▒██▒ ░░██▓ ▒██░▒████▒
-▒ ▒▓▒ ▒ ▒▓▒░ ░  ░░ ▒░ ░ ░▒ ▒  ░ ▒ ░░  ░ ▒▓ ░▒▓░░ ▒░ ░
-░ ░▒  ░ ░▒ ░     ░ ░  ░ ░  ▒      ░     ░▒ ░ ▒░░ ░  ░
-░  ░  ░ ░░         ░  ░         ░       ░░   ░   ░   
-      ░            ░  ░ ░                ░       ░  ░
-</p>
-                      ░                              
+
+                           |              
+   __|  __ \    _ \   __|  __|   __|  _ \ 
+ \__ \  |   |   __/  (     |    |     __/ 
+ ____/  .__/  \___| \___| \__| _|   \___| 
+       _|                                 
+cya fucker
+                                    
 
 
