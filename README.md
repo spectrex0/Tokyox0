@@ -10,7 +10,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=ffdd54)&nbps;
+![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
