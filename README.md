@@ -8,9 +8,7 @@
 👨‍💻 &nbsp;Im a simple coder that love to help others
 
 ### OS
-![Arch Linux](https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg)
 <img height="180em" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg" wi></img>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=ffdd54)
@@ -53,4 +51,5 @@
 
 Discord: sprr_z
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
                   
