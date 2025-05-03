@@ -29,7 +29,7 @@
 
 
 ### 💰 &nbsp;Support My Work
-[![Paypal](https://img.shields.io/badge/Paypal-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)&nbsp;
+![Paypal](https://img.shields.io/badge/Paypal-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)&nbsp;
 @LilAlxz]
 
 
