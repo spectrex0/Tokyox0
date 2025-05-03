@@ -33,9 +33,9 @@
 @LilAlxz]
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contact Me
 ![Discord](https://img.shields.io/badge/Discord-%2335495e.svg?style=for-the-badge&logo=discord&logoColor=%234FC08D)&nbsp;
-Discord: dev0_tokyo
+dev0_tokyo
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
                   
