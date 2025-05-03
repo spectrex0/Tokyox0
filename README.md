@@ -29,12 +29,12 @@
 
 
 ### 💰 &nbsp;Support My Work
-![Paypal](https://img.shields.io/badge/Paypal-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)&nbsp;
+![Paypal](https://img.shields.io/badge/Paypal-%2335495e.svg?style=for-the-badge&logo=paypal&logoColor=%234FC08D)&nbsp;
 @LilAlxz]
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+![Discord](https://img.shields.io/badge/Discord-%2335495e.svg?style=for-the-badge&logo=discord&logoColor=%234FC08D)&nbsp;
 Discord: dev0_tokyo
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
