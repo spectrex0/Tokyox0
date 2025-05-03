@@ -5,10 +5,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Im a simple coder that love to help others
+👨‍💻 &nbsp; HOBBYIST CODER!
 
 ### OS
 <img height="180em" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg"></img>
+<img height="180em" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg"></img>
 
 ### 🛠 &nbsp;Tech Stack
 ![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=ffdd54)
@@ -27,21 +28,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/sheluvzalx">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sheluvzalx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/sheluvzalx">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sheluvzalx&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
 
 ### 💰 &nbsp;Support My Work
 [![Paypal] @LilAlxz]
@@ -49,7 +35,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-Discord: sprr_z
+Discord: dev0_tokyo
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
                   
