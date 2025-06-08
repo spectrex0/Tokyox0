@@ -19,7 +19,7 @@
 ![React.js](https://img.shields.io/badge/react.js-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
+![Elysia](https://img.shields.io/badge/Elysia-%231572B6.svg?style=for-the-badge&logo=bun&logoColor=whit)&nbsp;
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
