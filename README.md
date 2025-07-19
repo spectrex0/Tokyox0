@@ -12,7 +12,7 @@
 <img height="180em" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg"></img>
 
 ### 🛠 &nbsp;Tech Stack
-![Mongodb](https://img.shields.io/badge/Mongo%20DB-0a5c0a?style=for-the-badge&logo=mongodb&logoColor=00FF00);
+![Mongodb](https://img.shields.io/badge/Mongo%20DB-0a5c0a?style=for-the-badge&logo=mongodb&logoColor=00FF00)&nbsp;
 ![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
