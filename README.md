@@ -23,9 +23,9 @@
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![koyeb](https://img.shields.io/badge/Koyeb-000000.svg?style=for-the-badge&logo=koyeb&logoColor=white);
-![render](<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/484d485b-c5b6-4a7f-bf4c-8816976aa4a7" />);
-![vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white&x-oss-process=image/resize,m_mfit,w_320,h_320);
+![koyeb](https://img.shields.io/badge/Koyeb-000000.svg?style=for-the-badge&logo=koyeb&logoColor=white)&nbsp;
+![render](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render&logoColor=white&x-oss-process=image/resize,m_mfit,w_320,h_320)&nbsp;
+![vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white&x-oss-process=image/resize,m_mfit,w_320,h_320)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
